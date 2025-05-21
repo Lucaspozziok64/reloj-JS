@@ -10,6 +10,13 @@
 - 💻 Diseño responsive
 - ⏱️ Actualización automática cada segundo
 
+🚀 Cómo probar el proyecto
+-
+- 1- Clona el repositorio:
+````
+https://github.com/Lucaspozziok64/reloj-JS.git
+````
+
 📂 Estructura del proyecto
 ````
 .
